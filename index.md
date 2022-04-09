@@ -3,8 +3,9 @@
 
 ### Individual Data Structures Final
 
-**Link to Video**
-* tbd
+**Link to Video & Review Ticket**
+* video: tehe
+* ticket: https://github.com/BillyCherres/squirty_grinnellians/issues/26
 
 **Calculator**
 * *Link to code*: https://replit.com/join/nhjseuvtpn-braydenbasinger
