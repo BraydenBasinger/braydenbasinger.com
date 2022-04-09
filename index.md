@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Brayden Basinger Github Pages AP Comp Sci A 
+## Trimester 3 2021-2022 with Mr. Mortensen
 
-You can use the [editor on GitHub](https://github.com/BraydenBasinger/braydenbasinger.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Individual Data Structures Final
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Calculator**
+* *link to code*: https://replit.com/join/nhjseuvtpn-braydenbasinger
+* *Link to explanation: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-calculator
 
-### Markdown
+**Sorts**
+* *Link to code*: https://replit.com/join/vhhcxfxcxp-braydenbasinger
+* *Link to explantion*: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-sorts-wiki
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Marges & Queues**
+* *Link to code*: https://replit.com/join/fzyoekgbqg-braydenbasinger
+* *Link to explanation*: https://github.com/BillyCherres/squirty_grinnellians/wiki/Brayden-Data-Structures-Challenge-1
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BraydenBasinger/braydenbasinger.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [ ] GitHub Pages showing key learnings and challenges conquered from Tech Talks and Assignments.
+- [ ] GitHub commits you have made, show GitHub insights into your code commits.
+- [ ] Show Code running on Replit as well as IntelliJ.  Prove that they are synchronized through GitHub
+- [ ] Discuss Menu review illustrating use of Arrays and Runnable/PolyMorphism: show runtime, code organization, code and comments
+- [ ] Discuss Queue and Stack: show runtime, code organization, code and comments
+- [ ] Discuss Calculator: show runtime, code organization, code and comments
+- [ ] Discuss Sorts and Analysis: show runtime, code organization, code and comments
+- [ ] Highlight analysis you have performed on Sort, show key data / stats you analyzed from your runtime
+- [ ] Show Crossover contribution:  Highlight work you did in crossover project: show their Replit runtime, code commit(s) in their GitHub repo
