@@ -3,6 +3,9 @@
 
 ### Individual Data Structures Final
 
+**Link to Video**
+* tbd
+
 **Calculator**
 * *Link to code*: https://replit.com/join/nhjseuvtpn-braydenbasinger
 * *Link to explanation*: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-calculator
@@ -11,11 +14,11 @@
 * *Link to code*: https://replit.com/join/vhhcxfxcxp-braydenbasinger
 * *Link to explantion*: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-sorts-wiki
 
-**Marges & Queues**
+**Merges & Queues**
 * *Link to code*: https://replit.com/join/fzyoekgbqg-braydenbasinger
 * *Link to explanation*: https://github.com/BillyCherres/squirty_grinnellians/wiki/Brayden-Data-Structures-Challenge-1
 
-** Requirements**
+**Requirements**
 - [ ] GitHub Pages showing key learnings and challenges conquered from Tech Talks and Assignments.
 - [ ] GitHub commits you have made, show GitHub insights into your code commits.
 - [ ] Show Code running on Replit as well as IntelliJ.  Prove that they are synchronized through GitHub
