@@ -4,8 +4,8 @@
 ### Individual Data Structures Final
 
 **Calculator**
-* *link to code*: https://replit.com/join/nhjseuvtpn-braydenbasinger
-* *Link to explanation: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-calculator
+* *Link to code*: https://replit.com/join/nhjseuvtpn-braydenbasinger
+* *Link to explanation*: https://github.com/BillyCherres/squirty_grinnellians/wiki/brayden-calculator
 
 **Sorts**
 * *Link to code*: https://replit.com/join/vhhcxfxcxp-braydenbasinger
