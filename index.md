@@ -4,7 +4,7 @@
 ### Individual Data Structures Final
 
 **Link to Video & Review Ticket**
-* video: tehe
+* video: https://youtu.be/RbXEJTQIiL0
 * ticket: https://github.com/BillyCherres/squirty_grinnellians/issues/26
 
 **Calculator**
